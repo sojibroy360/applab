@@ -197,3 +197,284 @@ body{
     color: #616368;
     font-size: 16px;
 }
+.Ultimate-features{
+    margin-top:100px;
+}
+.Ultimate-features-title h2{
+    font-size: 36px;
+    color: #242f51;
+}
+.Ultimate-features-title p{
+    font-size: 16px;
+    color: #616368;
+}
+.Ultimate-features-item h2{
+    font-size: 20px;
+}
+.Ultimate-features-title .Ultimate-features-title-btn{
+    margin-top: 20px;
+}
+.Ultimate-features-title .Ultimate-features-title-btn a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #2500f9;
+    padding: 14px 50px;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.footer{
+    width: 100%;
+    background-color: #242f51;
+    margin-top: 60px;
+}
+
+.footer-hadding{
+    padding: 80px 0px 150px 0px; 
+}
+.footer-item{
+    align-items: center !important;;
+}
+.footer-section h2{
+    color: #fff;
+    font-size: 30px;
+
+}
+.footer-section h2 span{
+    color: #fdaf61;
+}
+.footer-link{
+    margin-top: 30px;
+}
+.footer-link a{
+    padding: 0px 30px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-item h2 {
+    color: #fff;
+}
+.footer-item a{
+    text-decoration: none;
+    color: #e2eaed;
+    padding: 20px;
+
+}
+.footer-item p{
+    color: #7d7a87;
+}
+.footer-item p a{
+    color: #7d7a87;
+}
+.footer-item p a:hover{
+    text-decoration: underline;
+}
+.priching{
+    margin-top: 90px;
+    padding-bottom: 100px !important;
+}
+
+
+.priceing-hadding{
+    width: 50%;
+    margin: 0 auto;
+}
+.priceing-hadding h2{
+    width: 80%;
+    margin: auto;
+    font-size: 36px;
+    color: #242f51;
+    margin-bottom: 40px;
+}
+.priceing-hadding p{
+    font-size: 16px;
+    color: #616368;
+}
+
+
+.pricing-toggle{
+background:#e9ecef;
+border-radius:50px;
+padding:5px;
+display:inline-flex;
+}
+
+.pricing-toggle button{
+border:none;
+padding:8px 25px;
+border-radius:50px;
+background:transparent;
+font-weight:500;
+}
+
+.pricing-toggle .active{
+background:linear-gradient(45deg,#4a2cff,#6c4cff);
+color:white;
+}
+
+.pricing-card{
+background:white;
+padding:40px 25px;
+border-radius:15px;
+text-align:center;
+box-shadow:0 10px 30px rgba(0,0,0,0.05);
+}
+
+.price{
+font-size:60px;
+font-weight:700;
+}
+
+.price small{
+font-size:18px;
+color:#777;
+}
+
+.btn-purple{
+background:linear-gradient(45deg,#4a2cff,#6c4cff);
+color:white;
+border-radius:30px;
+padding:10px 30px;
+}
+
+.feature-list{
+list-style:none;
+padding:0;
+margin:25px 0;
+}
+
+.feature-list li{
+padding:7px 0;
+color:#777;
+}
+
+
+.testominal-section{
+    padding: 100px 0px;
+
+}
+
+.testominal{
+    width: 80%;
+}
+.testominal h3{
+    font-size: 40px;
+    color: #242f51;
+    padding-bottom: 15px;
+}
+.testominal h4{
+    font-size: 20px;
+    color: #242f51;
+    padding: 15px 0px;
+}
+
+.testominal p{
+    font-size: 16px;
+    color: #616368;
+}
+.testominal .testominal-star span{
+    color: #ffcc01 !important;
+}
+
+.testimonial-section{
+    padding-top: 22px;
+}
+
+.testimonial-box{
+display:flex;
+align-items:center;
+justify-content:space-between;
+}
+
+.user-info{
+display:flex;
+align-items:center;
+gap:20px;
+}
+
+.user-info img{
+width:70px;
+height:70px;
+border-radius:50%;
+object-fit:cover;
+}
+
+.user-name{
+font-weight:600;
+font-size:20px;
+color:#2d3748;
+}
+
+.user-role{
+color:#777;
+}
+
+.nav-buttons button{
+width:50px;
+height:50px;
+border-radius:50%;
+border:1px solid #e0e0e0;
+background:white;
+margin-left:10px;
+}
+
+.nav-buttons button:hover{
+background:#4a2cff;
+color:white;
+}
+
+
+.faq-item{
+    background-color:#f5f7fa ;
+}
+.faq-button{
+    background-color: #f5f7fa;
+}
+.faq-hadding h2{
+    color: #242f51;
+    font-size: 40px;
+}
+.faq-hadding p{
+    font-size: 16px;
+    color: #616368;
+}
+.pricing-card-btn a{
+    color: #fff;
+    background-color: #2500f9;
+    padding: 14px 26px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.dowload-apps-hadding h1{
+    font-size: 40px;
+    color: #242f51;
+    padding-bottom: 10px;
+}
+.dowload-apps-hadding p{
+    font-size: 16px;
+    color: #616368;
+}
+.app-logo{
+}
+.app-logo img{
+    margin:20px 20px 0px 0px;
+}
+
+.footer-icon{
+    margin-top: 30px;
+
+}
+.footer-icon a{
+    color: #616368;
+    font-size: 30px;
+    padding: 0px 10px;
+}
+.footer-icon .active-icon{
+    color: #fff;
+}
+.footer-section p{
+    margin-top: 80px;
+    color: #3a4358;
+}
