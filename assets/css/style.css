@@ -18,7 +18,7 @@ body{
     border-radius: 30px;
 }
 .hero-section{
-    background: url("/image.png");
+    background: url("image.png");
     background-size: cover;
     background-position: bottom;
 }
